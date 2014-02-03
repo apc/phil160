@@ -4,7 +4,7 @@
   <title><![CDATA[Category: announcements | Phil 160]]></title>
   <link href="http://apc.github.io/phil160/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil160/"/>
-  <updated>2014-02-03T18:10:45-05:00</updated>
+  <updated>2014-02-03T18:13:06-05:00</updated>
   <id>http://apc.github.io/phil160/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Exam schedule]]></title>
+    <link href="http://apc.github.io/phil160/blog/2014/02/03/exam-schedule/"/>
+    <updated>2014-02-03T18:11:53-05:00</updated>
+    <id>http://apc.github.io/phil160/blog/2014/02/03/exam-schedule</id>
+    <content type="html"><![CDATA[<p>The dates for the first and second exam are now on the <a href="http://perezcarballo.org/phil160/calendar/">course calendar</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Readings and First Assignment]]></title>
